@@ -13,7 +13,7 @@ public class boj_1330 {
 		} else if (A < B) {
 			System.out.println("<");
 		} else if (A == B) {
-			System.out.println("=");
+			System.out.println("==");
 		}
 	}
 
